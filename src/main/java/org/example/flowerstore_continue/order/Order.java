@@ -1,11 +1,11 @@
-package org.example.flower_store.order;
+package org.example.flowerstore_continue.order;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import org.example.flower_store.delivery.Delivery;
-import org.example.flower_store.flowerStore.Item;
-import org.example.flower_store.payment.Payment;
+import org.example.flowerstore_continue.delivery.Delivery;
+import org.example.flowerstore_continue.flowerStore.Item;
+import org.example.flowerstore_continue.payment.Payment;
 
 import java.util.List;
 

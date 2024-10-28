@@ -1,11 +1,11 @@
-package org.example.flower_store.flowerStore;
+package org.example.flowerstore_continue.flowerStore;
 
 public enum FlowerColor {
-     RED("#FF0000"), BLUE("#0000FF");
+    RED("#FF0000"), BLUE("#0000FF");
 
     private final String stringRepresentation;
     FlowerColor(String stringRepresentation) {
-        this.stringRepresentation = stringRepresentation.isEmpty() ? "none" : stringRepresentation;
+        this.stringRepresentation = stringRepresentation;
     }
 
 

@@ -1,4 +1,4 @@
-package org.example.flower_store.payment;
+package org.example.flowerstore_continue.payment;
 
 public class PayPalPaymentStrategy implements Payment{
 

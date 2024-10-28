@@ -1,4 +1,4 @@
-package org.example.flower_store.flowerStore;
+package org.example.flowerstore_continue.flowerStore;
 
 import lombok.*;
 
@@ -10,7 +10,6 @@ import lombok.*;
 public class Flower {
     @Getter
     private double sepalLength;
-
     private FlowerColor color;
     @Getter @Setter
     private double price;
