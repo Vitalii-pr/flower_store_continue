@@ -4,7 +4,7 @@ public class RibbonDecorator extends ItemDecorator{
 
     private final Item item;
 
-    RibbonDecorator(Item item){
+    public RibbonDecorator(Item item){
         this.item = item;
     }
 
